@@ -1,0 +1,12 @@
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\bin\Release\SysSharp.exe.config
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\bin\Release\SysSharp.exe
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\bin\Release\SysSharp.pdb
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\MainWindow.baml
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\MainWindow.g.cs
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\App.g.cs
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\SysSharp_MarkupCompile.cache
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\SysSharp.g.resources
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\SysSharp.Properties.Resources.resources
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\SysSharp.csproj.GenerateResource.Cache
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\SysSharp.exe
+C:\Users\mario_000\Documents\Visual Studio 2012\Projects\SysSharp\SysSharp\obj\x86\Release\SysSharp.pdb
